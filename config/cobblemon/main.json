@@ -46,7 +46,7 @@
     "cobblemon:sleep": "180-300",
     "cobblemon:burn": "180-300"
   },
-  "infiniteHealerCharge": false,
+  "infiniteHealerCharge": true,
   "maxHealerCharge": 6.0,
   "secondsToChargeHealingMachine": 900.0,
   "defaultFaintTimer": 300,
@@ -59,7 +59,7 @@
   "displayNameForUnknownPokemon": false,
   "displayEntityLabelsWhenCrouchingOnly": false,
   "shinyRate": 8192.0,
-  "shinyNoticeParticlesDistance": 24.0,
+  "shinyNoticeParticlesDistance": 24.0，
   "captureCalculator": "cobblemon",
   "playerDamagePokemon": true,
   "appleLeftoversChance": 0.025,
